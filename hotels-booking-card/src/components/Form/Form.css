@@ -1,0 +1,20 @@
+.form {
+    display: flex;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.options {
+    font-size: 20px;
+    width: 46.5vw;
+    /* background-color: red; */
+    display: flex;
+    /* justify-content: space-evenly; */
+    padding-bottom: 20px ;
+    /* background-color: red; */
+}
+
+.hotels {
+    color: grey;
+}

@@ -1,4 +1,5 @@
 import React from "react";
+import Form from "../Form/Form";
 import "./BookingCard.css";
 
 const BookingCard = (props) => {
